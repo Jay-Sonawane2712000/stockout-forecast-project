@@ -13,7 +13,7 @@ This project predicts **which SKUs** are at risk of stockout in the next 7 days 
 ---
 
 ## 📁 Project Structure
-
+```
 stockout_forecast_project/
 ├── data/ # local dataset (ignored on GitHub)
 ├── notebooks/ # Jupyter notebooks
@@ -21,6 +21,7 @@ stockout_forecast_project/
 ├── scripts/ # reusable Python scripts (future)
 ├── visuals/ # charts, images (future)
 └── README.md
+```
 ---
 
 
