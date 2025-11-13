@@ -23,19 +23,6 @@ stockout_forecast_project/
 └── README.md
 ---
 
-### 🧩 Explanation
-- The triple backticks (` ``` `) tell GitHub to render it as a **code block**, which preserves spacing and tree alignment.  
-- The branch lines (├──, └──, │) only work inside code blocks — otherwise Markdown compresses everything into one line.  
-
----
-
-### 💡 Pro Tip
-If you’re copying from here, make sure there’s:
-- No blank line **between** the opening and closing triple backticks.  
-- The block starts and ends exactly like this:  
-
-
----
 
 ## 💼 Business Impact
 This project quantifies profit risk and helps businesses enable proactive inventory management.
