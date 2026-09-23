@@ -7,6 +7,7 @@ This project predicts **which SKUs** are at risk of stockout in the next 7 days 
 ---
 
 ## 📊 Current Progress
+
 - ✅ Day 1 — Project setup, dataset loading, and basic inspection  
 - 🚧 Next: Exploratory Data Analysis (Day 2)
 
