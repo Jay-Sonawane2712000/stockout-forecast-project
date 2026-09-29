@@ -17,11 +17,11 @@ This project predicts **which SKUs (stock-keeping units)** are at risk of stocko
 
 ```
 stockout_forecast_project/
-├── data/ # local dataset (ignored on GitHub)
-├── notebooks/ # Jupyter notebooks
-│ └── 01_data_preparation.ipynb
-├── scripts/ # reusable Python scripts (future)
-├── visuals/ # charts, images (future)
+├── data/       # Local dataset (ignored on GitHub)
+├── notebooks/  # Jupyter notebooks
+│   └── 01_data_preparation.ipynb
+├── scripts/    # Reusable Python scripts (future)
+├── visuals/    # Charts and images (future)
 └── README.md
 ```
 
